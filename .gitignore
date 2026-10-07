@@ -1,0 +1,5 @@
+*.zip 
+*.pt 
+*.weights 
+Video/ 
+__pycache__/ 
